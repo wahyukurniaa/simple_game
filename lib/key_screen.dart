@@ -13,7 +13,7 @@ class KeyScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              'Tebak angka antara 1 dan 100',
+              'Tebak angka antara 1 dan 10',
               style: TextStyle(fontSize: 20),
             ),
             const SizedBox(height: 20),
